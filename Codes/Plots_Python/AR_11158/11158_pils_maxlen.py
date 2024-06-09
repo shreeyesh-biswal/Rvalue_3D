@@ -95,9 +95,9 @@ for i in range(0,m):
 # Orient the text
 st = dir_list[0]
 start_time = st[0:4] + '/' + st[5:7] + '/' + st[8:10] + '/' + st[11:13] + ':' + st[14:16]
-axs[0].text(-15, 337, P2, fontsize=23)
-axs[5].text(-39, 120, 'Height (Mm)', rotation = 90, fontsize=18)
-axs[9].text(19, -163, 'Time after ' + start_time + ' (hrs)', rotation = 0, fontsize=18)
+axs[0].text(-15, (cbar_max + (0.35*(cbar_max - cbar_min))), P2, fontsize=23)
+axs[5].text(-39, cbar_min + 0.5*(cbar_max - cbar_min), 'Height (Mm)', rotation = 90, fontsize=18)
+axs[9].text(19, (cbar_min - (0.65*(cbar_max - cbar_min))), 'Time after ' + start_time + ' (hrs)', rotation=0, fontsize=18)
 
 figure.subplots_adjust(right=0.8)
 cbar_ax = figure.add_axes([0.85, 0.15, 0.05, 0.7])

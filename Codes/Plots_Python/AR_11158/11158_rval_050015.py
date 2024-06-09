@@ -69,7 +69,6 @@ for i in range(0,m):
     axs[i].scatter(x, rval_matrix[:,9-i], c = rval_matrix[:,9-i], vmin=cbar_min, vmax=cbar_max, s=10, cmap=cm)
 
 for i in range(0,m):
-    # axs[i].set_ylim([cbar_min, 8])
     axs[i].set_ylim([cbar_min, cbar_max])
 
 plt.setp(plt.gcf().get_axes(), xticks=[], yticks=[]);
