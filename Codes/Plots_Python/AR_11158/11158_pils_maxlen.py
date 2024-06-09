@@ -18,8 +18,6 @@ base_dir = "/home/shreeyeshbiswal/IDLWorkspace/Dataset_PF/AR_" + AR
 dir_list = sorted(os.listdir(base_dir))
 n = len(dir_list)
 m = 10 # values per file 
-d = '10'
-th = '50'
 tot_len_matrix = np.zeros(shape=(n,m))
 max_len_matrix = np.zeros(shape=(n,m))
 abs_flx_matrix = np.zeros(shape=(n,m))
