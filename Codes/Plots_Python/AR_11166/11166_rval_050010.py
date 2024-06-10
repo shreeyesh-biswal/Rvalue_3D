@@ -41,7 +41,7 @@ for i in range(0,n):
     
     # the if-else statement takes care of missing data 
     if len(os.listdir(dir)) != 0:
-        rval = np.loadtxt("PF_ext_rvals_" + Time + ".dat")
+        rval = np.loadtxt("PF_ext_rvals_050010_" + Time + ".dat")
         rval = rval + 15.1172 # LOG FACTOR FOR 1.3141 x 10^15
         print(rval)
         print(np.shape(rval))
