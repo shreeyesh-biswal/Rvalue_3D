@@ -8,7 +8,9 @@
 3. unsigned flux
 4. R-value
 
-**Flare data-set details:** 
+**Contents:** This repository has 3 directories, one each for the codes, data and plots. Each directory is further divided into 4 sub-directories, based on the type of dataset (see below).  
+
+**Flare dataset details:** 
 1. X-class cases (8 cases)
 2. M-class cases (4 cases)
 3. C class cases (1 case)
