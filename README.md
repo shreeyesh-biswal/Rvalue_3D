@@ -14,7 +14,7 @@
 3. C class cases (1 case)
 4. Non-flaring/Quiescent ARs (3 cases), denoted by 'Zero' directory
 
-**Important:** While running the code files to view the results on a local machine, please modify the directory path appropriately. 
+**Important:** While running the code files to view the results on a local machine, please modify the directory path appropriately (see issue #1). 
 
 
 
