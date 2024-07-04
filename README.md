@@ -2,10 +2,11 @@
 
 **Project reference:** Biswal et al. 2024; doi: ---
 
-**About:** Codes and results corresponding to R-value and other magnetic metadata parameters in 3D; namely, 
-(i) total length of PILs 
-(ii) maximum length of PILs and 
-(iii) unsigned flux 
+**About:** Codes and results corresponding to a few magnetic metadata parameters in 3D; namely, 
+1. total length of PILs
+2. maximum length of PILs and 
+3. unsigned flux
+4. R-value
 
 **Flare data-set details:** 
 1. X-class cases (8 cases)
