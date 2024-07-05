@@ -16,7 +16,7 @@
 1. X-class cases (8 cases)
 2. M-class cases (4 cases)
 3. C class cases (1 case)
-4. Non-flaring/Quiescent ARs (3 cases), denoted by 'Zero' directory
+4. Non-flaring/Quiescent ARs (3 cases), denoted by 'Zero' sub-directory
 
 **Important:** While running the code files to view the results on a local machine, please modify the directory path appropriately (see issue #1). 
 
