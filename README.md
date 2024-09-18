@@ -2,7 +2,8 @@
 
 **Date created:** July 01, 2024
 
-**Project reference:** Biswal et al. 2024; doi: ---
+**Project reference:** Case studies on pre-eruptive X-class flares using R-value in the lower solar atmosphere
+Shreeyesh Biswal, Marianna B. Korsós, Manolis K. Georgoulis, Alexander Nindos, Spiros Patsourakos, Robertus Erdélyi (2024); ApJ, AAS; doi: 10.3847/1538-4357/ad6c33
 
 **About:** Codes and results corresponding to a few magnetic metadata parameters in 3D; namely, 
 1. total length of PILs
