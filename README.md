@@ -6,7 +6,9 @@
 
 **Authors:** Shreeyesh Biswal, Marianna B. Korsós, Manolis K. Georgoulis, Alexander Nindos, Spiros Patsourakos, Robertus Erdélyi 
 
-**Publication details:** Biswal et al. (2024); Accepted by ApJ-AAS; doi: 10.3847/1538-4357/ad6c33, Arxiv preprint (https://www.arxiv.org/abs/2408.04018)
+**Publication details:** Biswal et al. (2024); Accepted by ApJ-AAS; doi: 10.3847/1538-4357/ad6c33
+
+**Preprint information:** Arxiv link: https://www.arxiv.org/abs/2408.04018
 
 **About:** Codes and results corresponding to a few magnetic metadata parameters in 3D; namely, 
 1. total length of PILs
